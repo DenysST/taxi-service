@@ -1,7 +1,14 @@
-#Description
-This is a simple project made to show my skills in Java, JDBC, WEB, OOP. You can use basic CRUD operations. 
+# Description
 
-#Technologies
+This is a simple project made to show my skills in Java, JDBC, WEB, OOP. You can use basic CRUD operations.
+After crete account you have next features:
+- Add car, driver or manufacturer
+- Display car, driver or manufacturer
+- Delete car, driver or manufacturer
+- Add driver to car
+- Display all drivers for current car
+
+# Technologies
 - Java 11
 - MySQL
 - JDBC
@@ -10,7 +17,7 @@ This is a simple project made to show my skills in Java, JDBC, WEB, OOP. You can
 - JSTL
 - TomCat
 
-#Setup
+# Setup
 
 - fork this project
 - Create the required tables for your database using file resources/init_db.sql
